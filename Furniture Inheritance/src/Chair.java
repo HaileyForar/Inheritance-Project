@@ -10,5 +10,8 @@ public abstract class Chair extends Furniture
 	{
 		System.out.println("Unfortunately sometimes chairs can collect quite a bit of dust if not used regularly!");
 	}
+	
+	public abstract void holdsPerson();
+	public abstract void moves();
 	 
 }

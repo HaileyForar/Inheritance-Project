@@ -10,4 +10,7 @@ public abstract class Bed extends Furniture
 	{
 		System.out.println("Hopefully you don't let your bed get too dusty!");
 	}
+	
+	public abstract void makesBed();
+	public abstract void washesSheets();
 }

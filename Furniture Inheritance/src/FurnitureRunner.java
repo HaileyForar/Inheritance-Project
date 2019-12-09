@@ -15,6 +15,7 @@ public class FurnitureRunner
 		 {
 			f.supportsBody();
 			f.collectsDust();
+//			f.price;
 			System.out.println();
 		 }
 	 }

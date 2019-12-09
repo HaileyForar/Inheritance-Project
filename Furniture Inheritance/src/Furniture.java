@@ -1,6 +1,7 @@
 
 public abstract class Furniture 
 {
+	protected String type;
 	protected int weight;
 	protected double price;
 	 
